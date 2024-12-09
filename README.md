@@ -40,10 +40,7 @@ the project basically contains 3 sections which
 ## NLP(gpt 2)
 gpt 2 is used to intergtate emotion detected by the cnn and the caption produced for the image and with the extented word limit of 30 
 ## Contributors
-i would like to thank 
 
 https://github.com/kamaladhi (Jeevakamal K R)
 https://github.com/ShathaVarsha (Shatha Varsha)
-https://github.com/GowthamDhanaraju (Gowtham D)
-
-for the remarkable contribution in the project
+https://github.com/GowthamDhanaraju (Gowtham S D)
