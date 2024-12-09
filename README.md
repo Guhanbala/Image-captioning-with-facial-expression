@@ -37,9 +37,9 @@ the project basically contains 3 sections which
 
  decoder is decoder of a transformers which takes the input feature vector and produces captions to the same by producing the coressponding word from the the previous words using softmax
 
-## nlp(gpt 2)
+## NLP(gpt 2)
 gpt 2 is used to intergtate emotion detected by the cnn and the caption produced for the image and with the extented word limit of 30 
-## contributors
+## Contributors
 i would like to thank 
 
 https://github.com/kamaladhi (Jeevakamal K R)
