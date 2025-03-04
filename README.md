@@ -44,3 +44,5 @@ gpt 2 is used to intergtate emotion detected by the cnn and the caption produced
 https://github.com/kamaladhi (Jeevakamal K R)
 https://github.com/ShathaVarsha (Shatha Varsha)
 https://github.com/GowthamDhanaraju (Gowtham S D)
+https://github.com/Guhanbala (Guhan Balachandran)
+
