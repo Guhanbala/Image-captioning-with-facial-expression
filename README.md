@@ -52,4 +52,33 @@ This architecture enables the model to understand image content and generate des
 
 ### 3. NLP-Based Caption Enhancement (GPT-2)
 
-The final component integrates the outputs from the emotion detection and
+The final component integrates the outputs from the emotion detection and image captioning modules using GPT-2.
+
+- Takes the generated image caption and detected facial emotion as inputs.
+- Combines visual descriptions with emotional context.
+- Uses GPT-2 to refine and enhance the generated caption.
+- Produces a more expressive and context-aware caption with an extended word limit of up to 30 words.
+
+This integration helps the system move beyond basic object descriptions and generate captions that better represent the emotional context of an image.
+
+## Technologies Used
+
+- **Programming Language:** Python
+- **Deep Learning:** TensorFlow / PyTorch, CNN
+- **Computer Vision:** OpenCV
+- **Image Captioning:** CNN Encoder, Transformer Decoder
+- **Natural Language Processing:** GPT-2
+- **Techniques:** Feature Extraction, Facial Emotion Recognition, Sequence Generation
+
+## Research Publication
+
+The project also resulted in a published research paper in IEEE, documenting the proposed approach and research contributions.
+
+**Research Paper:** [Image Captioning with Facial Expression Recognition – IEEE Xplore](https://ieeexplore.ieee.org/document/11410892)
+
+## Contributors
+
+- [Guhan Balachandran](https://github.com/Guhanbala)
+- [Jeevakamal K R](https://github.com/kamaladhi)
+- [Shatha Varsha](https://github.com/ShathaVarsha)
+- [Gowtham S D](https://github.com/GowthamDhanaraju)
